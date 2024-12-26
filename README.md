@@ -42,8 +42,5 @@ Phase 3:
 - Expand to global markets and build strategic alliances.
 Get Involved
 MemeTrace Coin is a community-driven project. Whether you're a creator, developer, or blockchain enthusiast, we welcome your participation.
-Email: info@memetracecoin.com
-Twitter: @MemeTraceCoin
-Telegram: Join the Community
 License
 This project is licensed under the MIT License, encouraging innovation and collaboration while ensuring fair use of the technology.
