@@ -16,12 +16,14 @@ Core Features
 - Powered by Binance Smart Chain (BSC) for fast and cost-effective transactions.
 5. Open Ecosystem
 - Empower developers to build on top of the MTC ecosystem while fostering innovation.
+
 Tokenomics
 Token Name: MemeTrace Coin
 Symbol: MTC
 Total Supply: 10,000,000,000 MTC
 Blockchain: Binance Smart Chain (BSC)
-Smart Contract: [View on BscScan](#) *(Add contract link once deployed)*
+Smart Contract: https://bscscan.com/address/0x89D8863BFCaA1B92b64D333b95C505DB0C5a6138 *0x89D8863BFCaA1B92b64D333b95C505DB0C5a6138*
+
 How It Works
 1. Media content is uploaded to the MTC platform and fingerprinted using a cryptographic hash.
 2. Each instance of the content’s usage is logged on the blockchain.
